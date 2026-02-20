@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DocumentosConfidenciais.Console/DocumentosConfidenciais.Console.csproj" />
+  <Project Path="DocumentosConfidenciais.Tests/DocumentosConfidenciais.Tests.csproj" />
+</Solution>
