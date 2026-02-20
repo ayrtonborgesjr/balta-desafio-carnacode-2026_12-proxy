@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\DocumentosConfidenciais.Console\DocumentosConfidenciais.Console.csproj"/>
+    </ItemGroup>
+
 </Project>
